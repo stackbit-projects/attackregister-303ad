@@ -18,8 +18,8 @@ sections:
     background: gray
     title: Features
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Attack Register acts as a dynamic metrics and reporting layer on top of
+      your existing SAST/DAST and vulnerability scanning tools
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
