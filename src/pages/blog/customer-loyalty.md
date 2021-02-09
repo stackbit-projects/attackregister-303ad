@@ -11,7 +11,7 @@ date: '2021-01-03'
 thumb_image: images/bigstock--195467977.jpg
 thumb_image_alt: >-
   Three checks you can do for free, to verify if your crypto exchange takes
-  cybersecurity seriously.n
+  cybersecurity seriously.nk
 image: images/bigstock--195467977.jpg
 image_alt: Market candlesticks chart
 seo:
