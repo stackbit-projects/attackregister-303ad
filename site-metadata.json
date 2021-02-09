@@ -2,7 +2,7 @@
     "base_font": "nunito-sans",
     "palette": "purple",
     "header": {
-        "logo_img": "images/curious-crane.png",
+        "logo_img": "images/logo5.png",
         "logo_img_alt": "Logo",
         "has_nav": true,
         "nav_links": [
