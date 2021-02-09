@@ -13,7 +13,7 @@ thumb_image_alt: Market candlesticks chart
 image: images/bigstock--195467977.jpg
 image_alt: Market candlesticks chart
 seo:
-  title: Customer Loyalty Programs That Stick
+  title: Cryptocurrency cybersecurity
   description: >-
     A story about customer loyalty curabitur sed consectetur nisi. Integer sit
     amet commodo massa.
