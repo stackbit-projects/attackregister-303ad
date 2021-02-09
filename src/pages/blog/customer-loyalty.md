@@ -2,7 +2,7 @@
 title: Is your crypto exchange cyber secure?
 subtitle: >-
   Three checks you can do for free, to verify if your crypto exchange takes
-  cybersecurity seriously..
+  cybersecurity seriously.
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
