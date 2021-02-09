@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: Is your crypto exchange cyber secure?
 subtitle: A story about customer loyalty
 author: src/data/authors/jane-doe.yaml
 excerpt: >-
