@@ -17,11 +17,6 @@
                 "style": "link"
             },
             {
-                "label": "Sign Up",
-                "url": "/signup",
-                "style": "primary"
-            },
-            {
                 "label": "Pricing",
                 "url": "/pricing",
                 "style": "link"
@@ -36,6 +31,11 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
+            },
+            {
+                "label": "Sign Up",
+                "url": "/signup",
+                "style": "primary"
             }
         ]
     },
