@@ -90,7 +90,7 @@
                 "title": "Subscribe",
                 "content": "Be notified when we launch for public beta\n",
                 "form_id": "contactForm",
-                "hide_labels": false,
+                "hide_labels": true,
                 "form_fields": [
                     {
                         "input_type": "email",
