@@ -88,7 +88,7 @@
             {
                 "type": "footer_form",
                 "title": "Subscribe",
-                "content": "Stay up to date with our latest developments.",
+                "content": "Be notified when we launch for public beta\n",
                 "form_id": "contactForm",
                 "hide_labels": true,
                 "form_fields": [
