@@ -15,8 +15,8 @@ image_alt: Market candlesticks chart
 seo:
   title: Cryptocurrency cybersecurity
   description: >-
-    A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-    amet commodo massa.
+    Three checks you can do for free, to verify if your crypto exchange takes
+    cybersecurity seriously.
   extra:
     - name: 'og:type'
       value: website
