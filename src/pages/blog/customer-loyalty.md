@@ -9,7 +9,9 @@ excerpt: >-
   cybersecurity seriously.
 date: '2021-01-03'
 thumb_image: images/bigstock--195467977.jpg
-thumb_image_alt: A group of people working in a cafe
+thumb_image_alt: >-
+  Three checks you can do for free, to verify if your crypto exchange takes
+  cybersecurity seriously.
 image: images/bigstock--195467977.jpg
 image_alt: Market candlesticks chart
 seo:
