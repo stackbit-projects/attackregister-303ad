@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: A new way to manage cybersecurity risk
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Attack Register uses AI to prioritise security risks from multiple
+      disparate data sources
     actions:
       - label: Learn More
         url: /features
