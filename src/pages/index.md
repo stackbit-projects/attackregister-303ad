@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: A new way to manage cybersecurity risk
     content: >
-      Attack Register uses AI to prioritise security risks from multiple
-      disparate data sources
+      Attack Register acts as a dynamic metrics and reporting layer on top of
+      your existing SAST/DAST and vulnerability scanning tools.
     actions:
       - label: Learn More
         url: /features
