@@ -1,8 +1,8 @@
 ---
 title: Hacking ETH blockchain contracts
 excerpt: >-
-  Work at home parent is an entrepreneur who works from home and integrates
-  parenting into his or her business activities.
+  The ETH blockchain is ripe for exploitation if the contract developers are not
+  careful.
 author: src/data/authors/jane-doe.yaml
 date: '2020-04-22'
 thumb_image: images/9_thumb.jpg
