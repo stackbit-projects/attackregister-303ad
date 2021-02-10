@@ -53,8 +53,8 @@ sections:
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
-          Attack Register fits in and syncs with your existing processes. There
-          is no need for your developers to learn new tooling.
+          Attack Register fits in and syncs with your existing tools. There is
+          no need for your developers to learn new processes.
         actions:
           - label: Learn More
             url: /features
