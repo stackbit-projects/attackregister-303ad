@@ -21,7 +21,7 @@ sections:
       Attack Register acts as a dynamic metrics and reporting layer on top of
       your existing SAST/DAST and vulnerability scanning tools
     features:
-      - title: The Best Feature of Your Services
+      - title: Uses your existing cybersecurity tooling
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
