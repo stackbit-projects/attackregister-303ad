@@ -17,7 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: ''
+    subtitle: Here are some good features
     features:
       - title: Actionable security intelligence
         image: images/feature1.png
