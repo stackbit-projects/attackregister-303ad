@@ -7,7 +7,7 @@ sections:
     image_alt: App preview
     title: A new way to manage cybersecurity risk
     content: |
-      Attack Register uses AI to prioritise your security risks
+      Attack Register uses AI to analyse and prioritise your security risks
     actions:
       - label: Learn More
         url: /features
