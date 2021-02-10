@@ -6,9 +6,8 @@ sections:
     image: images/diligent-hickory.png
     image_alt: App preview
     title: A new way to manage cybersecurity risk
-    content: >
-      Attack Register uses AI to prioritise security risks from your existing
-      SAST/DAST and vulnerability scanning tools
+    content: |
+      Attack Register uses AI to prioritise your security risks
     actions:
       - label: Learn More
         url: /features
