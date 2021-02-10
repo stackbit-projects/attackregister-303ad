@@ -5,7 +5,7 @@ excerpt: >-
   careful.
 author: src/data/authors/jane-doe.yaml
 date: '2020-04-22'
-thumb_image: images/bigstock--180127576.jpg
+thumb_image: images/3.jpg
 thumb_image_alt: People in a conference room
 image: images/9.jpg
 image_alt: People in a conference room
