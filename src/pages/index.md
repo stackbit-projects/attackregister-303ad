@@ -49,7 +49,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Uses your existing cybersecurity tooling
+      - title: Uses your existing cybersecurity tools
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
