@@ -20,7 +20,7 @@ sections:
     subtitle: Here are some good features
     features:
       - title: Actionable security intelligence
-        image: images/6.jpg
+        image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
           Attack Register takes data out of tool-centric silos, and analyses it
