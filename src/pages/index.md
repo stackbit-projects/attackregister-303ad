@@ -93,7 +93,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Check out a live demo!
-    subtitle: Live demo using free SAST/DAST tooling
+    subtitle: Live demo using free SAST/DAST tooling in an AWS deployment
     actions:
       - label: Get Started
         url: /signup
