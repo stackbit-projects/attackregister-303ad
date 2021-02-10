@@ -92,7 +92,7 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: Sign up for our public beta
+    title: Check out a live demo!
     subtitle: This is an optional description for the call to action block.
     actions:
       - label: Get Started
