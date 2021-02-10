@@ -24,10 +24,9 @@ sections:
       - title: Actionable security intelligence
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Takes data out of tool-specific silos, and analyses it to create
+          actionable metrics and reports.
         actions:
           - label: Learn More
             url: /features
