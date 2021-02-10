@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/diligent-hickory.png
+    image: images/hero.png
     image_alt: App preview
     title: A new way to manage cybersecurity risk
     content: >
