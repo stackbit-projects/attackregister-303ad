@@ -6,8 +6,9 @@ sections:
     image: images/diligent-hickory.png
     image_alt: App preview
     title: A new way to manage cybersecurity risk
-    content: |
-      Attack Register uses AI to analyse and prioritise your security risks
+    content: >
+      Attack Register uses AI to prioritise security risks from multiple
+      disparate data sources
     actions:
       - label: Learn More
         url: /features
