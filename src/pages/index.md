@@ -25,8 +25,8 @@ sections:
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
-          Takes data out of tool-specific silos, and analyses it to create
-          actionable metrics and reports.
+          Attack Register takes data out of tool-centric silos, and analyses it
+          to create actionable metrics and reports for your CISO.
         actions:
           - label: Learn More
             url: /features
