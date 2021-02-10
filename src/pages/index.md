@@ -92,7 +92,7 @@ sections:
           Interdum et malesuada fames ac ante ipsum primis in faucibus.
   - section_id: call-to-action
     type: section_cta
-    title: Check out a live demo!
+    title: Check out the live demo!
     subtitle: Live demo using free SAST/DAST tooling in an AWS deployment
     actions:
       - label: Get Started
