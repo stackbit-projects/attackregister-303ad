@@ -52,10 +52,9 @@ sections:
       - title: Uses your existing cybersecurity tooling
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Attack Register fits in and syncs with your existing processes. There
+          is no need for your engineers to learn new tooling. 
         actions:
           - label: Learn More
             url: /features
