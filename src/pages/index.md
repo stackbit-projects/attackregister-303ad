@@ -17,9 +17,7 @@ sections:
     type: section_features
     background: gray
     title: Features
-    subtitle: >-
-      Attack Register acts as a dynamic metrics and reporting layer on top of
-      your existing SAST/DAST and vulnerability scanning tools.
+    subtitle: ''
     features:
       - title: Actionable security intelligence
         image: images/feature1.png
