@@ -8,7 +8,7 @@ sections:
     title: A new way to manage cybersecurity risk
     content: >
       Attack Register acts as a dynamic metrics and reporting layer on top of
-      your existing SAST/DAST and vulnerability scanning tools.
+      your existing cybersecurity tools.
     actions:
       - label: Learn More
         url: /features
